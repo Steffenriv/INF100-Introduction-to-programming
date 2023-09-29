@@ -1,0 +1,15 @@
+rad1 = input("Første raden: ")
+rad2 = input("Andre raden: ")
+rad3 = input("Tredje raden: ")
+
+str1 = len(rad1)
+str2 = len(rad2)
+str3 = len(rad3)
+
+length = max(str1, str2, str3)
+print("")
+print("@"* (length + 4))
+print("@ " + " " * (length-str1) + rad1 + " @")
+print("@ " + " " * (length-str2) + rad2 + " @")
+print("@ " + " " * (length-str3) + rad3 + " @")
+print("@"* (length + 4))

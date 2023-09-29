@@ -1,0 +1,13 @@
+Dersom ein står vekke fra døra
+    gå mot døra
+dersom ein står med døra 
+    bli
+Ta hand på handtaket
+dra ned og drei handtaket
+dra døra mot deg
+dersom døra ikkje går mot deg
+dytt døra 
+døra er no åpen.
+
+
+
